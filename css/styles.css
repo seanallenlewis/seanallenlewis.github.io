@@ -23,6 +23,12 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+.imageSelf{
+  width: 300px;
+  height: 300px;
+  margin-top: 50px;
+  border-radius: 100%;
+}
 .introGraph{
   font-family: 'Julius Sans One', sans-serif;
 }
