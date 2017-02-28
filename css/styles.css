@@ -23,16 +23,24 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+.imageContainer{
+
+}
 .imageSelf{
   width: 300px;
   height: 300px;
   margin-top: 50px;
   border-radius: 100%;
 }
+
 .introGraph{
-  font-family: 'Julius Sans One', sans-serif;
+
 }
 
+.projects-portion{
+  text-align: center;
+  margin: 75px;
+}
 hr {
     max-width: 80px;
     border-width: 3px;
@@ -294,6 +302,7 @@ header .header-content .inner p {
 
 footer {
     background-color:#2d2d2d;
+    min-height: 100px;
 }
 
 @media(min-width:768px) {
@@ -332,7 +341,7 @@ footer {
     }
 
     section {
-        min-height: 600px;
+        min-height: 400px;
         padding: 100px 0;
     }
 
